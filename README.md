@@ -1,0 +1,2 @@
+# SED-Account-Checker
+# Funções
