@@ -8,6 +8,6 @@ Um projeto em python para automatizar requisições de login na plataforma Sed E
 
 # To-Do-list:
 * ideias?
-* Estou aberto para sujestoes.
+* Estou aberto para sugestoes.
 
 # * Novas Funções em breve....
